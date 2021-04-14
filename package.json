@@ -1,0 +1,24 @@
+{
+  "name": "groups",
+  "version": "1.0.0",
+  "description": "groups of people",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc && node index.js",
+    "start": "nodemon index.js"
+  },
+  "author": "UVNS.ShadePi",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^14.14.37",
+    "@types/yargs": "^16.0.1"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "fs": "^0.0.1-security",
+    "keypress": "^0.2.1",
+    "press-any-key": "^0.1.1",
+    "prompt-sync": "^4.2.0",
+    "yargs": "^16.2.0"
+  }
+}
