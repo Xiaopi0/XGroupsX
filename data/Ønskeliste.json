@@ -8,5 +8,15 @@
         "Thing": "Cities: Skylines",
         "Info": "Platform = Steam\n\tDLC = Ja",
         "Gotten": false
+    },
+    {
+	"Thing": "Router",
+	"Info": "5G",
+	"Gotten": false
+    },
+    {
+	"Thing": "Cable",
+	"Info": "Ethernet",
+	"Gotten": false
     }
 ]
